@@ -14,7 +14,7 @@
 
 * 🔬 **Computing Physicist** with background in semiconductor metrology, optical signal analysis, and image sensor development.
 * ⚡ **Nanophtonics Expert** Inverse Design of nanophotonics devices, optical performance optimization.
-* 🤖 **Roboticist** active in simulating and developing intelligent robotic systems (NVIDIA Isaac Sim, Isaac Lab, and ROS) for precision automation.
+* 🤖 **Roboticist** family with simulating and developing intelligent robotic systems (NVIDIA Isaac Sim, Isaac Lab, and ROS) .
 * 🧪 Experienced in computational physics and optics simulation (FDTD, RCWA).
 * ⚙️ Deeply engaged in advanced AI agent architectures, stateful multi-agent systems, and reinforcement learning optimization models.
 
