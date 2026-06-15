@@ -3,7 +3,7 @@
 # Hello 👋, I'm Howard Chang
 
 ### Computing Physicist | Roboticist | Physical AI
-*Passionate about combining computational physics and intelligent robotics 🧠 ⚡*
+*Passionate about combining computational physics and intelligent robotics 🧠 ⚡*<br>
 *Invited Researcher of IPHT(Institut für Photonische Technologien)*
 
 </div>
